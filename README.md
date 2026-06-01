@@ -300,7 +300,7 @@ Seven unsolved problems identified:
 ## Author
 
 **Slamani Abdelhafid**  
-Artificial Intelligence & Data Science, Group 24.Б83-мм  
+Artificial Intelligence & Data Science
 Saint Petersburg State University (SPbU)  
 
 ---
